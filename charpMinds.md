@@ -186,7 +186,7 @@ public interface Api {
 
 `Api.Install`, 
 
-`Parameter.Install`.(ТЁМА, вот это жирным просто выдели)
+`Parameter.Install`.
 
 И мне не нужно придумывать никаких странных имен ака `InstallResponse`, который лежит в неймспейсе `Install`.
 
