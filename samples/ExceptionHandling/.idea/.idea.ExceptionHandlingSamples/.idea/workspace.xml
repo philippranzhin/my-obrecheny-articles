@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="305034d1-f0e0-4bcf-8a7e-120ed0761b5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling.Test/ExceptionHandling.Test.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling.Test/UserServiceTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Classic/UserNotFoundException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Classic/UserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/ExceptionHandlingSamples.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/UserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Model/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/SomeOrDefault/UserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/TryPattern/UserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/UserStorage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maybe/Maybe.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Model/User.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/IStatisticksService.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/UserStorage.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Classic/UserNotFoundException.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Classic/UserService.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/Maybe.cs" />
+        <option value="$PROJECT_DIR$/Maybe/Class1.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/UserService.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/TryPattern/UserService.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/SomeOrDefault/UserService.cs" />
+        <option value="$PROJECT_DIR$/Maybe/Maybe.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandling.Test/UserServiceTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irWGgfq6Zt9Hqa3ziNJWr66ZDo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="305034d1-f0e0-4bcf-8a7e-120ed0761b5e" name="Default Changelist" comment="" />
+      <created>1602666096378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602666096378</updated>
+      <workItem from="1602666112364" duration="4632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="340" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1602668978245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="340" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1602668978245" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1602668867359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1602668867359" />
+    <state x="802" y="128" key="RiderGenerateDialog" timestamp="1602670111521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="128" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602670111521" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602667665962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602667665962" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602667171966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602667171966" />
+  </component>
+</project>

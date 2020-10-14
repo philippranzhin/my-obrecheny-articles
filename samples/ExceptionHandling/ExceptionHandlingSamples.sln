@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingSamples", "ExceptionHandlingSamples\ExceptionHandlingSamples.csproj", "{8190D4B9-B0C0-4479-BCF7-1AB0772AB04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling.Test", "ExceptionHandling.Test\ExceptionHandling.Test.csproj", "{0005AB30-50FE-461D-A04B-093A39399048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maybe", "Maybe\Maybe.csproj", "{DB70A480-1DF3-46B5-98BE-7196CCA544AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8190D4B9-B0C0-4479-BCF7-1AB0772AB04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8190D4B9-B0C0-4479-BCF7-1AB0772AB04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8190D4B9-B0C0-4479-BCF7-1AB0772AB04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8190D4B9-B0C0-4479-BCF7-1AB0772AB04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0005AB30-50FE-461D-A04B-093A39399048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0005AB30-50FE-461D-A04B-093A39399048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0005AB30-50FE-461D-A04B-093A39399048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0005AB30-50FE-461D-A04B-093A39399048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB70A480-1DF3-46B5-98BE-7196CCA544AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB70A480-1DF3-46B5-98BE-7196CCA544AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB70A480-1DF3-46B5-98BE-7196CCA544AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB70A480-1DF3-46B5-98BE-7196CCA544AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
