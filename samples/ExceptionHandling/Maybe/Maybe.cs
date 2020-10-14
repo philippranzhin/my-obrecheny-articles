@@ -9,8 +9,6 @@
         public static Failure<T> CreateFailure() {
             return new Failure<T>();
         }
-        
-
     }
     
     public class Success<T> : Maybe<T> {

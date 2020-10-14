@@ -11,9 +11,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="305034d1-f0e0-4bcf-8a7e-120ed0761b5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../charpMinds.md" beforeDir="false" />
-    </list>
+    <list default="true" id="305034d1-f0e0-4bcf-8a7e-120ed0761b5e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602666096378</updated>
       <workItem from="1602666112364" duration="4632000" />
-      <workItem from="1602677315778" duration="1250000" />
+      <workItem from="1602677315778" duration="1876000" />
     </task>
     <servers />
   </component>
