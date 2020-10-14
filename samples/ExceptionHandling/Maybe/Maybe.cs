@@ -1,5 +1,5 @@
 ﻿namespace Maybe {
-    public class Maybe<T> {
+    public abstract class Maybe<T> {
         internal Maybe() {}
 
         public static Success<T> CreateSuccess(T value) {

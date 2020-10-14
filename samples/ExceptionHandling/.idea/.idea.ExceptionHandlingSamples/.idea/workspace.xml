@@ -12,27 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="305034d1-f0e0-4bcf-8a7e-120ed0761b5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExceptionHandlingSamples/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling.Test/ExceptionHandling.Test.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling.Test/UserServiceTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Classic/UserNotFoundException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Classic/UserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/ExceptionHandlingSamples.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/UserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/Model/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/SomeOrDefault/UserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/TryPattern/UserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingSamples/UserStorage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maybe/Maybe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../charpMinds.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,8 +35,8 @@
         <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/UserService.cs" />
         <option value="$PROJECT_DIR$/ExceptionHandlingSamples/TryPattern/UserService.cs" />
         <option value="$PROJECT_DIR$/ExceptionHandlingSamples/SomeOrDefault/UserService.cs" />
-        <option value="$PROJECT_DIR$/Maybe/Maybe.cs" />
         <option value="$PROJECT_DIR$/ExceptionHandling.Test/UserServiceTests.cs" />
+        <option value="$PROJECT_DIR$/Maybe/Maybe.cs" />
       </list>
     </option>
   </component>
@@ -82,13 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602666096378</updated>
       <workItem from="1602666112364" duration="4632000" />
+      <workItem from="1602677315778" duration="1250000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
