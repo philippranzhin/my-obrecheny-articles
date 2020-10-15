@@ -2,8 +2,12 @@
     public abstract class Maybe<T> {
         internal Maybe() {}
 
-        public static Success<T> CreateSuccess(T value) {
-            return new Success<T>(value);
+        public static Maybe<T> TryCreateSuccess(T value) {
+            if (value != null) {
+                return new Success<T>(value);
+            }
+            
+            return new Failure<T>();
         }
         
         public static Failure<T> CreateFailure() {

@@ -9,7 +9,6 @@ namespace ExceptionHandlingSamples.TryPattern {
             }
 
             user = default!;
-
             return false;
         }
     }

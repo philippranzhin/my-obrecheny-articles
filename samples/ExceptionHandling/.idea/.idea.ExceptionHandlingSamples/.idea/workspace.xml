@@ -31,10 +31,10 @@
         <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/Maybe.cs" />
         <option value="$PROJECT_DIR$/Maybe/Class1.cs" />
         <option value="$PROJECT_DIR$/ExceptionHandlingSamples/Maybe/UserService.cs" />
-        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/TryPattern/UserService.cs" />
         <option value="$PROJECT_DIR$/ExceptionHandlingSamples/SomeOrDefault/UserService.cs" />
         <option value="$PROJECT_DIR$/ExceptionHandling.Test/UserServiceTests.cs" />
         <option value="$PROJECT_DIR$/Maybe/Maybe.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandlingSamples/TryPattern/UserService.cs" />
       </list>
     </option>
   </component>
@@ -60,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602666096378</updated>
       <workItem from="1602666112364" duration="4632000" />
-      <workItem from="1602677315778" duration="1876000" />
+      <workItem from="1602677315778" duration="2474000" />
+      <workItem from="1602755318528" duration="696000" />
     </task>
     <servers />
   </component>
