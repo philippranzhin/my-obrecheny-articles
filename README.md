@@ -1,9 +1,9 @@
-### my-obrecheny-articles
+# My-obrecheny-articles
 Репозиторий сообщества "Мы обречены"
 
 Здесь вы можете найти технические метериалы, которые размещают члены нашего сообщества, и код с примерами для них.
 
-### Мы в соц. сетях / Площадки где мы есть
+## Мы в соц. сетях / Площадки где мы есть
 [Видео подкаст](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA)
 
 [Телеграм канал](https://t.me/myobrechenychannel)
@@ -12,7 +12,7 @@
 
 [Твиттер сообщества](https://twitter.com/myobrecheny)
 
-### Хабр:
+## Хабр:
 
 [Фил](https://habr.com/ru/users/fillpackart/)
 
